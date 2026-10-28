@@ -1,0 +1,33 @@
+name: Something went wrong
+description: DragFlow did something unexpected, showed an error, or stopped working.
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What you did, what you expected, and what happened instead.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: DragFlow version
+      description: Shown on the dashboard's Home page, under the name.
+      placeholder: "1.5.0"
+    validations:
+      required: true
+  - type: input
+    id: windows
+    attributes:
+      label: Windows version
+      placeholder: "Windows 11 24H2"
+  - type: textarea
+    id: report
+    attributes:
+      label: Log
+      description: >
+        Dashboard › Help › *Report a problem* › *Save report* puts a zip of the logs on your desktop.
+        Open it, check there is nothing private in it, and paste the end of dragflow.log here (or attach the zip).
+        Please never paste an API key.
+      render: text

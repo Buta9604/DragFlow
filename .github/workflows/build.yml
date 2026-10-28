@@ -1,0 +1,23 @@
+# Builds DragFlow and runs its automated checks on every push and pull request (once the project is on GitHub).
+name: build
+on: [push, pull_request]
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Modern C# compiler
+        shell: pwsh
+        run: ./scripts/get-compiler.ps1
+      - name: Build
+        shell: cmd
+        run: scripts\build.cmd
+      - name: Tests
+        shell: cmd
+        run: bin\DragFlow.Tests.exe
+      - uses: actions/upload-artifact@v4
+        with:
+          name: DragFlow
+          path: |
+            bin/DragFlow.exe
+            bin/DragFlow-Setup.exe

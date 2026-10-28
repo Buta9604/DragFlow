@@ -1,0 +1,16 @@
+name: Idea for an action or feature
+description: Something you would like the dial, rules or dashboard to do.
+labels: [enhancement]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like to do?
+      description: The files you drag and what should happen to them. An example helps a lot.
+    validations:
+      required: true
+  - type: textarea
+    id: now
+    attributes:
+      label: How do you do it today?
+      description: Another app, a script, by hand…

@@ -1,0 +1,2185 @@
+﻿# DragFlow translation template. Fill in each "tr:" line; leave it empty to keep the English.
+# {0}, {1}... are blanks DragFlow fills in (numbers, names); keep them in the translation.
+
+en: 
+tr: 
+
+en:  and 
+tr: 
+
+en:  and {0} more
+tr: 
+
+en: "{0}" hidden
+tr: 
+
+en: "{0}" is a new or changed script. Run it?
+tr: 
+
+en: "{0}" is back on the dial
+tr: 
+
+en: "{0}" keeps the dial hidden
+tr: 
+
+en: "DragFlow actionsâ€¦" in Explorer's right-click menu
+tr: 
+
+en: (no action chosen for it)
+tr: 
+
+en: (no action chosen)
+tr: 
+
+en: (no folder chosen)
+tr: 
+
+en: (no name)
+tr: 
+
+en: (shortcut off)
+tr: 
+
+en: (The guard only runs for the real settings, not for a test profile.)
+tr: 
+
+en: * for anything, kinds such as image or pdf, or extensions such as .png
+tr: 
+
+en: {0} active
+tr: 
+
+en: {0} is not available right now, so DragFlow is using its default settings folder for this session. Changes you make now stay there.
+tr: 
+
+en: {0} is used by another program. Choose another in Settings > Shortcuts.
+tr: 
+
+en: {0} need attention
+tr: 
+
+en: {0} rule(s); {1} folder(s) watched now.
+tr: 
+
+en: {0}: {1}
+tr: 
+
+en: 1 hour
+tr: 
+
+en: 1.  Start dragging any file or folder in File Explorer. A dial of actions opens around it.
+tr: 
+
+en: 1280 px
+tr: 
+
+en: 16:9 crop
+tr: 
+
+en: 1920 px
+tr: 
+
+en: 2.  Point at an action and let go. To drag as usual, just keep moving: the dial gets out of the way.
+tr: 
+
+en: 3.  Or select files and press Ctrl+Alt+D, or right-click them and choose "DragFlow actions".
+tr: 
+
+en: 50%
+tr: 
+
+en: A "Converted" folder next to them
+tr: 
+
+en: a file
+tr: 
+
+en: A place at the screen edge to park files while you drag; drag them out later.
+tr: 
+
+en: A recipe runs several actions in a row and appears on the dial under Custom. Each step works on what the step before made; everything is one Undo.
+tr: 
+
+en: A recipe runs several actions in a row; each step works on what the step before made, and everything is one Undo. Recipes appear on the dial under Custom.
+tr: 
+
+en: A share link straight from OneDrive would need you to sign in to Microsoft inside DragFlow. Until then, Share link copies the file into OneDrive and opens Windows' Share window, which has Copy link.
+tr: 
+
+en: â€¦ and {0} more lines (read them all in the dashboard's Scripts studio)
+tr: 
+
+en: Action
+tr: 
+
+en: Action names, comma separated.
+tr: 
+
+en: Actions
+tr: 
+
+en: Actions for selected files
+tr: 
+
+en: Actions for the files you drag
+tr: 
+
+en: Actions on the dial
+tr: 
+
+en: Actions this week
+tr: 
+
+en: Activity list
+tr: 
+
+en: Activityâ€¦
+tr: 
+
+en: Add
+tr: 
+
+en: Add "DragFlow actions" to Explorer's right-click menu
+tr: 
+
+en: Add "DragFlow actionsâ€¦" to Explorer's right-click menu
+tr: 
+
+en: Add a folderâ€¦
+tr: 
+
+en: Add Ctrl, Alt or Shift
+tr: 
+
+en: Add step
+tr: 
+
+en: After the dial has gone out of the way, draw a quick shape: its action appears beside the pointer. Move onto it and let go.
+tr: 
+
+en: After the dial has gone, draw Z, V, L or N while dragging
+tr: 
+
+en: AI & more
+tr: 
+
+en: AI actions on the dial
+tr: 
+
+en: AI actions pause once this month's estimate reaches it. Empty for no limit.
+tr: 
+
+en: AI describe
+tr: 
+
+en: AI e-mail
+tr: 
+
+en: AI helper
+tr: 
+
+en: AI helper off
+tr: 
+
+en: AI helper on
+tr: 
+
+en: AI helper: AI actions on the dial (only the file you pick an AI action for is sent to Anthropic's Claude)
+tr: 
+
+en: AI name
+tr: 
+
+en: AI summary
+tr: 
+
+en: AI table
+tr: 
+
+en: AI this month
+tr: 
+
+en: AI translate
+tr: 
+
+en: AI translateâ€¦
+tr: 
+
+en: AI usage record
+tr: 
+
+en: All files
+tr: 
+
+en: All settings reset
+tr: 
+
+en: --allow-elevated
+tr: 
+
+en: Also show the dial for drags out of these programs (one per line), such as outlook, olk, chrome, msedge.
+tr: 
+
+en: Always first
+tr: 
+
+en: An action, or one of your recipes.
+tr: 
+
+en: and it
+tr: 
+
+en: And the folders inside it
+tr: 
+
+en: Animated GIF
+tr: 
+
+en: Animations
+tr: 
+
+en: Animations saved
+tr: 
+
+en: Answer ready
+tr: 
+
+en: Anthropic (Claude)
+tr: 
+
+en: API key
+tr: 
+
+en: API key removed
+tr: 
+
+en: API key saved (encrypted for your Windows account)
+tr: 
+
+en: Approve
+tr: 
+
+en: Approve it before it can run.
+tr: 
+
+en: Approve the script first: a script runs only after you have approved it.
+tr: 
+
+en: Approve this script? DragFlow runs it as it is now when you pick it on the dial. Only approve scripts you wrote or trust.
+tr: 
+
+en: Approved
+tr: 
+
+en: Arguments
+tr: 
+
+en: As files arrive
+tr: 
+
+en: As files arrive, and every hour
+tr: 
+
+en: Ask AI
+tr: 
+
+en: Ask AIâ€¦
+tr: 
+
+en: Askingâ€¦
+tr: 
+
+en: At most {0} px wide or tall
+tr: 
+
+en: Audio to MP3
+tr: 
+
+en: automatic
+tr: 
+
+en: Back up settings to a fileâ€¦
+tr: 
+
+en: Backup
+tr: 
+
+en: best
+tr: 
+
+en: Bigger than (MB)
+tr: 
+
+en: Bitrate
+tr: 
+
+en: Border
+tr: 
+
+en: Burn in subtitles
+tr: 
+
+en: By date
+tr: 
+
+en: By type
+tr: 
+
+en: came from the internet
+tr: 
+
+en: Cancel
+tr: 
+
+en: Cancelled
+tr: 
+
+en: Change speed
+tr: 
+
+en: Check for updates
+tr: 
+
+en: Check Help
+tr: 
+
+en: Check now
+tr: 
+
+en: checked every hour
+tr: 
+
+en: Checksum
+tr: 
+
+en: Choose a folderâ€¦
+tr: 
+
+en: Choose a template first.
+tr: 
+
+en: Choose an action first.
+tr: 
+
+en: Choose the folder (for example inside OneDrive). DragFlow copies its settings there and restarts.
+tr: 
+
+en: Choose where new versions are published in Settings > Shortcuts & updates.
+tr: 
+
+en: Choose without aiming
+tr: 
+
+en: Chooseâ€¦
+tr: 
+
+en: Classic settings window
+tr: 
+
+en: Claude Haiku 5.5 (cheapest)
+tr: 
+
+en: Claude Opus 5.5 (best results)
+tr: 
+
+en: Claude Sonnet 5.5 (faster, cheaper)
+tr: 
+
+en: Clear
+tr: 
+
+en: Clear list
+tr: 
+
+en: Clear the activity list?
+tr: 
+
+en: Clear the activity list? Nothing is undone and your files are not touched.
+tr: 
+
+en: Clear the record of AI use?
+tr: 
+
+en: Clear the record of AI use? This also resets this month's count for the limit.
+tr: 
+
+en: Clear the undo history? What DragFlow did so far can then no longer be undone.
+tr: 
+
+en: Clear the usage record
+tr: 
+
+en: Clear undo history
+tr: 
+
+en: Cleared.
+tr: 
+
+en: Click a Watch folder or Target folder cell first.
+tr: 
+
+en: Click an action Â· arrows and Enter Â· Esc closes
+tr: 
+
+en: Click the box and press the keys you want.
+tr: 
+
+en: Click the box, then press the keys you want.
+tr: 
+
+en: clip.mp4
+tr: 
+
+en: Close
+tr: 
+
+en: Collage
+tr: 
+
+en: Colours
+tr: 
+
+en: Colours saved
+tr: 
+
+en: Combine
+tr: 
+
+en: Combine into a PDF
+tr: 
+
+en: Combine to PDF
+tr: 
+
+en: Compare
+tr: 
+
+en: Contact sheet
+tr: 
+
+en: Contents
+tr: 
+
+en: Convert
+tr: 
+
+en: Convert pictures to JPG
+tr: 
+
+en: Convert pictures to PNG
+tr: 
+
+en: Convert pictures to WebP
+tr: 
+
+en: Convert to
+tr: 
+
+en: Convert to AVIF
+tr: 
+
+en: Convert to JPG
+tr: 
+
+en: Convert to PNG
+tr: 
+
+en: Convert to WebP
+tr: 
+
+en: Copied
+tr: 
+
+en: Copy
+tr: 
+
+en: Copy file
+tr: 
+
+en: Copy here
+tr: 
+
+en: Copy image
+tr: 
+
+en: Copy instead of move
+tr: 
+
+en: Copy link
+tr: 
+
+en: Copy path
+tr: 
+
+en: Copy text
+tr: 
+
+en: Copy to
+tr: 
+
+en: Copy to a folder
+tr: 
+
+en: Copy to a folderâ€¦
+tr: 
+
+en: Could not check for updates
+tr: 
+
+en: Could not install the update
+tr: 
+
+en: Could not save the report
+tr: 
+
+en: Could not send to the phone
+tr: 
+
+en: Count
+tr: 
+
+en: Counted from each answer; the cost is an estimate at Anthropic's list prices. Your Anthropic account shows the exact bill.
+tr: 
+
+en: Create
+tr: 
+
+en: Custom
+tr: 
+
+en: Custom actions
+tr: 
+
+en: Custom actions start a program with the dragged files (for example Open in VS Code). They are kept in actions.ini.
+tr: 
+
+en: Dark
+tr: 
+
+en: Decrypt
+tr: 
+
+en: Delete
+tr: 
+
+en: Delete recipe
+tr: 
+
+en: Delete rule
+tr: 
+
+en: Delete the recipe "{0}"?
+tr: 
+
+en: Delete the rule "{0}"?
+tr: 
+
+en: Desktop shortcut
+tr: 
+
+en: Diagnostic log
+tr: 
+
+en: Dial for selected files
+tr: 
+
+en: Dial size
+tr: 
+
+en: Dial size saved
+tr: 
+
+en: Do
+tr: 
+
+en: Do this
+tr: 
+
+en: Done. DragFlow restarts now to use the new folder.
+tr: 
+
+en: Down to the right, then up to the right
+tr: 
+
+en: Down, then right
+tr: 
+
+en: Downloaded {0} time(s). Anyone on this network with the link can download these files until you close this window (at most 15 minutes).
+tr: 
+
+en: Downloads only
+tr: 
+
+en: drag a file to see actions
+tr: 
+
+en: DragFlow {0} is available
+tr: 
+
+en: DragFlow {0} is the newest version there.
+tr: 
+
+en: DragFlow {0} is the newest version.
+tr: 
+
+en: DragFlow actions
+tr: 
+
+en: DragFlow actionsâ€¦
+tr: 
+
+en: DragFlow activity
+tr: 
+
+en: DragFlow cannot watch the mouse
+tr: 
+
+en: DragFlow is off
+tr: 
+
+en: DragFlow is on
+tr: 
+
+en: DragFlow is paused until {0}
+tr: 
+
+en: DragFlow is still busy. Try Check for updates again later.
+tr: 
+
+en: DragFlow kept running; details are in the log.
+tr: 
+
+en: DragFlow no longer starts with Windows
+tr: 
+
+en: DragFlow on
+tr: 
+
+en: DragFlow restarted
+tr: 
+
+en: DragFlow starts a few seconds after you sign in.
+tr: 
+
+en: DragFlow starts with Windows
+tr: 
+
+en: DragFlow turned off
+tr: 
+
+en: DragFlow turned on
+tr: 
+
+en: DragFlow updated
+tr: 
+
+en: Dragging from an administrator window
+tr: 
+
+en: Drags out of these programs, comma separated (outlook, chrome).
+tr: 
+
+en: Drawingâ€¦
+tr: 
+
+en: Duplicates
+tr: 
+
+en: Edit
+tr: 
+
+en: Edit custom actions
+tr: 
+
+en: Email
+tr: 
+
+en: E-mail draft (copied)
+tr: 
+
+en: E-mail draft ready and copied
+tr: 
+
+en: Empty or 0 for any age. Age rules look at what is already there.
+tr: 
+
+en: Empty when the profile is for programs only.
+tr: 
+
+en: Empty: never look for updates.
+tr: 
+
+en: Enabled
+tr: 
+
+en: Encrypt
+tr: 
+
+en: Encryptâ€¦
+tr: 
+
+en: Even volume
+tr: 
+
+en: every {0} at {1}
+tr: 
+
+en: Every day at
+tr: 
+
+en: every day at {0}
+tr: 
+
+en: Every week on
+tr: 
+
+en: Everything DragFlow does can be undone from the notification or the tray icon.
+tr: 
+
+en: Everything on these pages back to how it was after installing. Rules, recipes, profiles and scripts are kept.
+tr: 
+
+en: Exact copies
+tr: 
+
+en: Exit
+tr: 
+
+en: Explorer did not answer in time. Try again.
+tr: 
+
+en: Extra "Move to" folders
+tr: 
+
+en: Extra large
+tr: 
+
+en: Extract archives here
+tr: 
+
+en: Extract archives to a folder
+tr: 
+
+en: Extract here
+tr: 
+
+en: Extract to folder
+tr: 
+
+en: Fade in and out
+tr: 
+
+en: File kinds
+tr: 
+
+en: File names in the log
+tr: 
+
+en: File no bigger than
+tr: 
+
+en: File types
+tr: 
+
+en: Files
+tr: 
+
+en: Files rules already handled
+tr: 
+
+en: files.zip
+tr: 
+
+en: Files: patterns such as *.pdf;*.docx. New files are handled once they have finished downloading; "older than" needs the hourly scan. When: empty for "as files arrive", or daily 18:00, weekly sun 18:00. Do can also run a recipe. Every run can be undone (except the Recycle Bin).
+tr: 
+
+en: Find a setting
+tr: 
+
+en: Find an action on the shortcut dial
+tr: 
+
+en: Fit in size
+tr: 
+
+en: Fit in sizeâ€¦
+tr: 
+
+en: Flatten
+tr: 
+
+en: Flip
+tr: 
+
+en: Folder
+tr: 
+
+en: Folder not found
+tr: 
+
+en: Folderâ€¦
+tr: 
+
+en: Follow Windows
+tr: 
+
+en: For
+tr: 
+
+en: For {0} in {1}
+tr: 
+
+en: For example a OneDrive folder you copy new releases into (scripts\\release.ps1 makes them). DragFlow checks once a day, asks before installing, and only installs a file whose checksum matches.
+tr: 
+
+en: For good
+tr: 
+
+en: For items in these folders
+tr: 
+
+en: Forget everything DragFlow could undo? Your files are not touched.
+tr: 
+
+en: Forget how you drag? The dial goes back to its standard timing.
+tr: 
+
+en: Forget key
+tr: 
+
+en: Forget which actions you used? The dial goes back to its standard order.
+tr: 
+
+en: Forget which files rules handled? Rules that look at existing files may then handle them again.
+tr: 
+
+en: Format
+tr: 
+
+en: Get a key at console.anthropic.com (Settings â€º API keys). Use is billed to that account, usually a few cents per file. The key is stored encrypted for your Windows account on this PC only, never in backups.
+tr: 
+
+en: good
+tr: 
+
+en: Grayscale
+tr: 
+
+en: Guard:
+tr: 
+
+en: Health
+tr: 
+
+en: High
+tr: 
+
+en: High contrast in Windows always wins: the dial then uses your high-contrast colours. Translations go in the lang folder (see docs\\translations).
+tr: 
+
+en: Hold Alt when you start dragging, or press Esc
+tr: 
+
+en: Hold Ctrl over Move to
+tr: 
+
+en: Hold the left button and draw a Z, V, L or N here.
+tr: 
+
+en: Hourly scan
+tr: 
+
+en: How far you can move before the dial hides
+tr: 
+
+en: How far you can move: saved
+tr: 
+
+en: How you drag (learning)
+tr: 
+
+en: If it stops without being asked to (a crash, or ended in Task Manager), a small guard starts it again. Exit in the tray menu still turns it off.
+tr: 
+
+en: image, pdf, video, audio, word, text, archive, folder; empty for all.
+tr: 
+
+en: Images to PDF
+tr: 
+
+en: Include file names in the diagnostic log
+tr: 
+
+en: Install
+tr: 
+
+en: Install it now? DragFlow restarts by itself.
+tr: 
+
+en: Into which language?
+tr: 
+
+en: is bigger than {0} MB
+tr: 
+
+en: is older than {0} days
+tr: 
+
+en: is on your desktop. It holds DragFlow's logs only.
+tr: 
+
+en: It also waits a little longer before it gets out of the way.
+tr: 
+
+en: It includes file names, because that option is on.
+tr: 
+
+en: It installs as soon as the current job is finished.
+tr: 
+
+en: It starts again when you change the rules or restart DragFlow.
+tr: 
+
+en: It starts when you sign in and comes back by itself if it stops.
+tr: 
+
+en: It starts when you sign in.
+tr: 
+
+en: It stopped unexpectedly and started again. Your undo history is kept.
+tr: 
+
+en: JPG
+tr: 
+
+en: Keep
+tr: 
+
+en: Keep DragFlow running
+tr: 
+
+en: Keep items on the shelf after dragging them out
+tr: 
+
+en: Keep on shelf
+tr: 
+
+en: Keep running
+tr: 
+
+en: Keep settings in another folderâ€¦
+tr: 
+
+en: Keep the original size
+tr: 
+
+en: Key stored
+tr: 
+
+en: Key stored: {0}
+tr: 
+
+en: Keyboard and mouse
+tr: 
+
+en: Keyboard and right-click
+tr: 
+
+en: Keyboard shortcut
+tr: 
+
+en: Language
+tr: 
+
+en: Language and log
+tr: 
+
+en: Language saved (some texts change after a restart)
+tr: 
+
+en: Large
+tr: 
+
+en: Larger dial for pen and finger drags
+tr: 
+
+en: Larger dial for pen and touch, which waits a little longer
+tr: 
+
+en: Largest size in MB (for example 25 for most chat apps)
+tr: 
+
+en: Last actions:
+tr: 
+
+en: Last month
+tr: 
+
+en: Learn how I drag
+tr: 
+
+en: Learning
+tr: 
+
+en: Leave out
+tr: 
+
+en: Left
+tr: 
+
+en: letter.docx
+tr: 
+
+en: Light
+tr: 
+
+en: Link copied
+tr: 
+
+en: List contents
+tr: 
+
+en: Look
+tr: 
+
+en: lossless
+tr: 
+
+en: Lower: it gets out of the way sooner. Higher: it stays longer. A quick flick never shows it.
+tr: 
+
+en: Markdown to HTML
+tr: 
+
+en: Medium
+tr: 
+
+en: Merge
+tr: 
+
+en: Model
+tr: 
+
+en: Model: {0}
+tr: 
+
+en: Monthly limit (US dollars)
+tr: 
+
+en: Monthly limit: ${0}
+tr: 
+
+en: More
+tr: 
+
+en: more than 10 files
+tr: 
+
+en: Mouse watcher
+tr: 
+
+en: Move "{0}" to the Recycle Bin?
+tr: 
+
+en: Move {0} to the Recycle Bin?
+tr: 
+
+en: Move to
+tr: 
+
+en: Move to a folder
+tr: 
+
+en: Move to a folderâ€¦
+tr: 
+
+en: Move to folders
+tr: 
+
+en: Move to folders saved
+tr: 
+
+en: Move to the Recycle Bin
+tr: 
+
+en: My recipe
+tr: 
+
+en: Name
+tr: 
+
+en: Name for a recipe of these steps:
+tr: 
+
+en: Name for the photos; they get 001, 002â€¦ in the order they were taken
+tr: 
+
+en: Name on the dial
+tr: 
+
+en: Needs approval
+tr: 
+
+en: Needs attention
+tr: 
+
+en: New
+tr: 
+
+en: New e-mail with the files
+tr: 
+
+en: New folder
+tr: 
+
+en: New profile
+tr: 
+
+en: New recipe
+tr: 
+
+en: New rule
+tr: 
+
+en: New versions come from a folder or a web address (https) that holds latest.ini. DragFlow checks once a day and asks before installing; only a file with the right checksum is installed.
+tr: 
+
+en: Next to the originals
+tr: 
+
+en: No account, no analytics, no telemetry. Files only go out for AI actions you pick (to Anthropic), To phone (to your own network), Share link (into OneDrive), Shareâ€¦ and Email (to the app you choose).
+tr: 
+
+en: No key stored.
+tr: 
+
+en: No key yet
+tr: 
+
+en: No monthly limit
+tr: 
+
+en: No rules yet. A rule could be: when a PDF lands in Downloads, move it to Documents â€º PDFs.
+tr: 
+
+en: No scripts yet. Start from a template below.
+tr: 
+
+en: No update source set
+tr: 
+
+en: Normal
+tr: 
+
+en: Normally it starts when you sign in and comes back by itself if it stops.
+tr: 
+
+en: Not recognised. Draw it bigger, in one go.
+tr: 
+
+en: Not set up
+tr: 
+
+en: Not working
+tr: 
+
+en: notes.txt
+tr: 
+
+en: nothing
+tr: 
+
+en: Nothing is moved here; it only shows what DragFlow would recognise.
+tr: 
+
+en: Nothing leaves your PC unless you ask for it
+tr: 
+
+en: Nothing matches. Try another word.
+tr: 
+
+en: Nothing selected
+tr: 
+
+en: Nothing to record yet: run one or more actions on some files first (within the last hour).
+tr: 
+
+en: Nothing to save yet: run one or more actions on some files first (within the last hour).
+tr: 
+
+en: Nothing to undo
+tr: 
+
+en: Nothing yet. Drag a file in Explorer and pause for a moment to see the dial.
+tr: 
+
+en: Number by date
+tr: 
+
+en: off
+tr: 
+
+en: Off
+tr: 
+
+en: Offered first under Move to; separate with |
+tr: 
+
+en: Older than (days)
+tr: 
+
+en: on
+tr: 
+
+en: On
+tr: 
+
+en: On Windows 11 it is under "Show more options" (or Shift+right-click).
+tr: 
+
+en: On Windows 11 it is under Show more options. Send to â€º DragFlow is always there.
+tr: 
+
+en: one item at a time
+tr: 
+
+en: One per line, for example obs64 or powerpnt.
+tr: 
+
+en: One per line; they are offered first under Move to.
+tr: 
+
+en: Only files downloaded from the internet
+tr: 
+
+en: Only if someone helping you asks for it.
+tr: 
+
+en: Only the file you pick an AI action for is sent, and only then.
+tr: 
+
+en: Only when bigger than (MB)
+tr: 
+
+en: Only when older than (days)
+tr: 
+
+en: Open
+tr: 
+
+en: Open & share
+tr: 
+
+en: Open scripts folderâ€¦
+tr: 
+
+en: Open the classic table
+tr: 
+
+en: Open the dial for the selected files with a shortcut
+tr: 
+
+en: Open the dial for the selected files with this keyboard shortcut:
+tr: 
+
+en: Open the log folder
+tr: 
+
+en: Open the scripts folder
+tr: 
+
+en: Open withâ€¦
+tr: 
+
+en: Optionsâ€¦
+tr: 
+
+en: Opus gives the best results; Sonnet is faster and cheaper; Haiku is cheapest.
+tr: 
+
+en: Order saved
+tr: 
+
+en: Organize
+tr: 
+
+en: Other connections
+tr: 
+
+en: Other programs
+tr: 
+
+en: Pages
+tr: 
+
+en: Password for {0}
+tr: 
+
+en: Password for the encrypted copy (at least 8 characters). The original is not changed.
+tr: 
+
+en: Patterns such as *.pdf;*.docx, or * for all.
+tr: 
+
+en: Pause for 1 hour
+tr: 
+
+en: Pause for a while
+tr: 
+
+en: Paused for an hour
+tr: 
+
+en: paused until {0}
+tr: 
+
+en: Paused until {0}
+tr: 
+
+en: Paused until tomorrow
+tr: 
+
+en: PDF
+tr: 
+
+en: Pen and touch
+tr: 
+
+en: photo.jpg
+tr: 
+
+en: Pick folder for the selected cellâ€¦
+tr: 
+
+en: Pick programâ€¦
+tr: 
+
+en: Picture descriptions
+tr: 
+
+en: Pictures to PDF
+tr: 
+
+en: PNG
+tr: 
+
+en: PowerShell, Python and batch files in the scripts folder appear on the dial under Custom for the file types they name. A new or changed script runs only after you approve it.
+tr: 
+
+en: Practise
+tr: 
+
+en: Press 1 to 9 while the dial is open
+tr: 
+
+en: Preview
+tr: 
+
+en: Preview in the dial
+tr: 
+
+en: Print
+tr: 
+
+en: Problem report saved
+tr: 
+
+en: Profiles put other actions first for one folder (and the folders inside it), or for drags out of certain programs. Make one with New profile.
+tr: 
+
+en: Profiles saved
+tr: 
+
+en: Program
+tr: 
+
+en: Programs
+tr: 
+
+en: Programs on the dial
+tr: 
+
+en: Programs saved
+tr: 
+
+en: Properties
+tr: 
+
+en: Put first
+tr: 
+
+en: Put the actions I use most first
+tr: 
+
+en: Puts your favourites first (the last 3000 uses).
+tr: 
+
+en: Quality
+tr: 
+
+en: Quick switches
+tr: 
+
+en: Quiet folder added
+tr: 
+
+en: Quiet folders saved
+tr: 
+
+en: Quiet in full screen
+tr: 
+
+en: Quiet programs saved
+tr: 
+
+en: Ranking
+tr: 
+
+en: Recent activity
+tr: 
+
+en: Recipe:
+tr: 
+
+en: Recipes
+tr: 
+
+en: Recipes saved
+tr: 
+
+en: Recognised {0}
+tr: 
+
+en: Record what I just did
+tr: 
+
+en: Recycle Bin
+tr: 
+
+en: Refresh
+tr: 
+
+en: Remove
+tr: 
+
+en: Remove duplicate lines
+tr: 
+
+en: Remove empty
+tr: 
+
+en: Remove photo info (EXIF)
+tr: 
+
+en: Remove step
+tr: 
+
+en: Remove the API key from this PC?
+tr: 
+
+en: Remove the sound
+tr: 
+
+en: Remove the stored API key from this PC?
+tr: 
+
+en: Rename
+tr: 
+
+en: Replace the current settings with the ones in this file? DragFlow restarts afterwards.
+tr: 
+
+en: Report a problem
+tr: 
+
+en: Report a problemâ€¦
+tr: 
+
+en: report.pdf
+tr: 
+
+en: Requests this month
+tr: 
+
+en: Reset
+tr: 
+
+en: Reset all settings
+tr: 
+
+en: Reset all settings to how they were after installing?
+tr: 
+
+en: Resize
+tr: 
+
+en: Resize to 1280 px
+tr: 
+
+en: Resize to 1920 px
+tr: 
+
+en: Resize to 50%
+tr: 
+
+en: Resolution
+tr: 
+
+en: Restore settings from a fileâ€¦
+tr: 
+
+en: Result
+tr: 
+
+en: Resume
+tr: 
+
+en: Resume (paused until {0})
+tr: 
+
+en: Resumed
+tr: 
+
+en: Right
+tr: 
+
+en: Right now it would take {0}:
+tr: 
+
+en: Right now it would take no files.
+tr: 
+
+en: Right, back down to the left, right again
+tr: 
+
+en: Right-click entry
+tr: 
+
+en: Rotate
+tr: 
+
+en: Rotate right
+tr: 
+
+en: Rule
+tr: 
+
+en: Rule paused
+tr: 
+
+en: Rules
+tr: 
+
+en: Rules saved
+tr: 
+
+en: Run "{0}" on which files?
+tr: 
+
+en: Run my rules
+tr: 
+
+en: Run on filesâ€¦
+tr: 
+
+en: Run selected rule on existing files now
+tr: 
+
+en: Run some actions, then Record turns them into a recipe.
+tr: 
+
+en: Run the script on which file?
+tr: 
+
+en: Run these rules: when a new file lands in a folder, DragFlow does the action by itself
+tr: 
+
+en: Runningâ€¦
+tr: 
+
+en: Save
+tr: 
+
+en: Save a key first.
+tr: 
+
+en: Save an API key first.
+tr: 
+
+en: Save as recipe
+tr: 
+
+en: Save key
+tr: 
+
+en: Save last actions as a recipeâ€¦
+tr: 
+
+en: Save report
+tr: 
+
+en: Save the converted files in which folder?
+tr: 
+
+en: Save to
+tr: 
+
+en: Save your changes first, then approve.
+tr: 
+
+en: Save your changes to {0}?
+tr: 
+
+en: Saved "{0}". It is on the dial under Custom for files like these:
+tr: 
+
+en: Saved.
+tr: 
+
+en: Saves a zip of the logs on your desktop to send to whoever helps you. It is not sent anywhere.
+tr: 
+
+en: Scan this with the phone's camera. The phone must be on the same Wi-Fi as this PC.
+tr: 
+
+en: Script
+tr: 
+
+en: Scripts: PowerShell, Python or batch files in that folder appear on the dial under Custom. A line like "# DragFlow: name=Upload; types=image" names them.
+tr: 
+
+en: Search
+tr: 
+
+en: Search the log
+tr: 
+
+en: Select files in File Explorer or on the desktop (or copy them), then press the shortcut.
+tr: 
+
+en: Select one or more files or folders first.
+tr: 
+
+en: Send to phone
+tr: 
+
+en: Settings
+tr: 
+
+en: Settings folder
+tr: 
+
+en: Settings folder not found
+tr: 
+
+en: Settings folder:
+tr: 
+
+en: Settings, custom actions, profiles, rules, recipes and the shelf live in one folder. Keep it in OneDrive to have the same DragFlow on every PC.
+tr: 
+
+en: Settingsâ€¦
+tr: 
+
+en: Shape {0}
+tr: 
+
+en: Shape {0}: {1}
+tr: 
+
+en: Shapes
+tr: 
+
+en: Shapes while dragging
+tr: 
+
+en: Shapes: draw Z, V, L or N while dragging (after the dial has gone) to get that action next to the pointer
+tr: 
+
+en: Share
+tr: 
+
+en: Share link
+tr: 
+
+en: Shareâ€¦
+tr: 
+
+en: Shelf
+tr: 
+
+en: Shortcut
+tr: 
+
+en: Shortcut is now {0}
+tr: 
+
+en: Shortcut not available
+tr: 
+
+en: Shortcuts & updates
+tr: 
+
+en: Show
+tr: 
+
+en: Show a thumbnail and details of what is dragged in the dial
+tr: 
+
+en: Show the dial
+tr: 
+
+en: Show the dial when I drag a file or folder
+tr: 
+
+en: Show the shelf while I drag files
+tr: 
+
+en: Shrink
+tr: 
+
+en: Shrink pictures
+tr: 
+
+en: Similar photos
+tr: 
+
+en: Size
+tr: 
+
+en: Size report
+tr: 
+
+en: Skip the dial once
+tr: 
+
+en: Small file
+tr: 
+
+en: Smart
+tr: 
+
+en: Smart name
+tr: 
+
+en: So rules never redo a file.
+tr: 
+
+en: Something not right?
+tr: 
+
+en: Something went wrong
+tr: 
+
+en: Sort lines
+tr: 
+
+en: sound only
+tr: 
+
+en: Speed: 0.5 = half, 1.5 = faster, 2 = double
+tr: 
+
+en: Speedâ€¦
+tr: 
+
+en: Square crop
+tr: 
+
+en: Start DragFlow with Windows
+tr: 
+
+en: Start using DragFlow
+tr: 
+
+en: Start with Windows
+tr: 
+
+en: Started on {0} file(s).
+tr: 
+
+en: Starting
+tr: 
+
+en: Status
+tr: 
+
+en: Stay quiet
+tr: 
+
+en: Steps
+tr: 
+
+en: Still looking
+tr: 
+
+en: Stop sharing
+tr: 
+
+en: Stopped: the link no longer works.
+tr: 
+
+en: Stored encrypted for your Windows account.
+tr: 
+
+en: Stored encrypted so only your Windows account on this PC can read it. Never in settings files, backups or logs.
+tr: 
+
+en: Strip EXIF
+tr: 
+
+en: Subfolders
+tr: 
+
+en: Target folder
+tr: 
+
+en: Terminal
+tr: 
+
+en: Test connection
+tr: 
+
+en: Test on a fileâ€¦
+tr: 
+
+en: Text to put in the corner of each picture
+tr: 
+
+en: That could not be saved:
+tr: 
+
+en: That keyboard shortcut needs Ctrl, Alt or Shift plus a key.
+tr: 
+
+en: That window runs as administrator, so Windows will not let DragFlow receive its drops. The dial stays hidden there.
+tr: 
+
+en: The AI helper needs an API key: paste it and press Save key, or turn the AI helper off.
+tr: 
+
+en: The AI helper uses your own Anthropic API key. Get one at console.anthropic.com under API keys; use is billed to that account, usually a few cents per file.
+tr: 
+
+en: The dial
+tr: 
+
+en: The dial does not appear when you drag.
+tr: 
+
+en: The dial for this kind of file, with your order, hidden actions, size and colours.
+tr: 
+
+en: The first line names it and its file types, for example: # DragFlow: name=Upload; types=image,pdf; each
+tr: 
+
+en: The guard has not reported yet.
+tr: 
+
+en: The originals are never changed. Every conversion can be undone.
+tr: 
+
+en: The previous settings window, with every option in tables.
+tr: 
+
+en: The two passwords are different.
+tr: 
+
+en: There is already a recipe called "{0}". Replace it?
+tr: 
+
+en: There is no way to get the file back without this password. Keep it somewhere safe.
+tr: 
+
+en: These actions come first, in this order, whenever the dial offers them.
+tr: 
+
+en: This month
+tr: 
+
+en: This page could not be shown
+tr: 
+
+en: Thumbnail
+tr: 
+
+en: Thumbnail and details of what is dragged
+tr: 
+
+en: Tidy JSON
+tr: 
+
+en: Time saved, roughly
+tr: 
+
+en: To images
+tr: 
+
+en: To JPG
+tr: 
+
+en: To PDF
+tr: 
+
+en: To phone
+tr: 
+
+en: To picture
+tr: 
+
+en: To this folder
+tr: 
+
+en: To UTF-8
+tr: 
+
+en: Today
+tr: 
+
+en: Tokens and estimated cost per month.
+tr: 
+
+en: Tokens this month
+tr: 
+
+en: Tools
+tr: 
+
+en: Touch dial
+tr: 
+
+en: Translate
+tr: 
+
+en: Translations are files in the lang folder.
+tr: 
+
+en: Trim
+tr: 
+
+en: Trim silence
+tr: 
+
+en: Try it
+tr: 
+
+en: Try it in a practice folder
+tr: 
+
+en: Turn DragFlow off?
+tr: 
+
+en: Turn it on?
+tr: 
+
+en: turned off
+tr: 
+
+en: Two files of at most 1 MB; file names only if you turned that on.
+tr: 
+
+en: Type a time such as 18:00.
+tr: 
+
+en: Type an amount in dollars, such as 5, or leave it empty for no limit.
+tr: 
+
+en: Type it again
+tr: 
+
+en: Type its first letters
+tr: 
+
+en: Undo
+tr: 
+
+en: Undo history
+tr: 
+
+en: undone or expired
+tr: 
+
+en: Unix line endings
+tr: 
+
+en: Untick actions you never want on the dial. Everything else stays where it is.
+tr: 
+
+en: Untick what you never use. Everything else stays where it is.
+tr: 
+
+en: Until I sign in again
+tr: 
+
+en: Until tomorrow
+tr: 
+
+en: Up to date
+tr: 
+
+en: Up, down to the right, up again
+tr: 
+
+en: Update postponed
+tr: 
+
+en: Update ready
+tr: 
+
+en: Update source
+tr: 
+
+en: Update source saved
+tr: 
+
+en: Updates
+tr: 
+
+en: Usage
+tr: 
+
+en: Use at least {0} characters.
+tr: 
+
+en: Use shapes
+tr: 
+
+en: Used most this month
+tr: 
+
+en: Version {0}
+tr: 
+
+en: Version {0} is available. Save the settings, then use Check for updates in the tray menu.
+tr: 
+
+en: Video to MP4
+tr: 
+
+en: Wallpaper
+tr: 
+
+en: Watch folder
+tr: 
+
+en: Watch this folder
+tr: 
+
+en: Watching
+tr: 
+
+en: Watermark
+tr: 
+
+en: Watermarkâ€¦
+tr: 
+
+en: Web page or text to PDF
+tr: 
+
+en: Web page to PDF
+tr: 
+
+en: Welcome to DragFlow
+tr: 
+
+en: What can still be undone (7 days), with backups of edited files.
+tr: 
+
+en: What DragFlow did (the last 1000 actions).
+tr: 
+
+en: What DragFlow did and any problems it met, newest at the bottom.
+tr: 
+
+en: What DragFlow keeps
+tr: 
+
+en: When
+tr: 
+
+en: When (e.g. daily 18:00)
+tr: 
+
+en: When {0} lands in {1}
+tr: 
+
+en: When the dial should open, and where you never want it.
+tr: 
+
+en: When the dial should open; no file names.
+tr: 
+
+en: Where new versions of DragFlow are published (a folder or web address with latest.ini):
+tr: 
+
+en: Which actions you used
+tr: 
+
+en: While a full-screen game, video or slideshow is open
+tr: 
+
+en: While these programs run
+tr: 
+
+en: will be skipped until it exists.
+tr: 
+
+en: Windows language
+tr: 
+
+en: Windows line endings
+tr: 
+
+en: Windows refused the mouse hook. Try restarting DragFlow.
+tr: 
+
+en: With the AI helper on, the dial offers AI actions (marked "AI"). When you pick one, that file is sent to Anthropic over an encrypted connection to be read, and the answer comes back. Nothing is sent otherwise.
+tr: 
+
+en: With the AI helper on, the dial offers AI actions (marked "AI"). When you pick one, that file is sent to Anthropic over an encrypted connection to be read, and the answer comes back. Nothing is sent otherwise.\r\n\r\nTurn it on?
+tr: 
+
+en: Working
+tr: 
+
+en: Written by AI: check anything important before relying on it.
+tr: 
+
+en: Yesterday
+tr: 
+
+en: You can restore them from the Recycle Bin, not with DragFlow's Undo.
+tr: 
+
+en: You have version {0}.
+tr: 
+
+en: You now have version {0}.
+tr: 
+
+en: Your AI API key
+tr: 
+
+en: Your own commands on the dial. File types: * for anything, folder, or extensions like .png,.jpg. Arguments: {file} once per item, {files} all at once, {dir} the folder.
+tr: 
+
+en: Your question about {0}
+tr: 
+
+en: Your scripts
+tr: 
+
+en: Your settings
+tr: 
+
+en: Your settings, custom actions, profiles, rules, recipes and shelf live in one folder. Keep them in a OneDrive folder to have the same DragFlow on every PC, or back them up to a file.
+tr: 
+
+en: Your week
+tr: 
+
+en: Zip
+tr: 
+
+

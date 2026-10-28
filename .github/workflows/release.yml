@@ -1,0 +1,25 @@
+# Pushing a tag like v1.5.0 builds DragFlow, runs its checks and makes a DRAFT GitHub release with the
+# installer, the app, latest.ini and SHA256SUMS.txt. Nothing is public until you press Publish on GitHub.
+name: release
+on:
+  push:
+    tags: ['v*']
+permissions:
+  contents: write
+jobs:
+  release:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Modern C# compiler
+        shell: pwsh
+        run: ./scripts/get-compiler.ps1
+      - name: Build, test and package
+        shell: pwsh
+        run: ./scripts/release.ps1
+      - name: Draft release
+        uses: softprops/action-gh-release@v2
+        with:
+          draft: true
+          body_path: bin/release/notes.md
+          files: bin/release/*/*

@@ -1,0 +1,8 @@
+# build output and the optional downloaded compiler
+bin/
+tools/
+# local secrets and editor/agent folders
+.env
+*.pfx
+.vs/
+.claude/
